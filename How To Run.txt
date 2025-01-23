@@ -1,0 +1,3 @@
+เปิด cmd cd เข้าโฟล์ดเดอร์
+node merge.js
+node merge.test.js
